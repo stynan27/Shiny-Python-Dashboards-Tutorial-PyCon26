@@ -1,0 +1,71 @@
+meta:
+  name:
+    short: PyCon 2026
+    full: PyCon US 2026 — Long Beach, California
+  link:
+    home: https://us.pycon.org/2026/
+
+logo:
+  medium: https://us.pycon.org/2026/static/images/theme/sub-logo-full.94351d59d82e.svg
+
+color:
+  palette:
+    # Core backgrounds
+    near-black: "#090A28"
+    dark-blue: "#101136"
+    medium-blue: "#3B3EA9"
+
+    # PyCon 2026 accent colors (from official CSS + logo SVG)
+    blue: "#5833E9"
+    purple: "#680579"
+    pink: "#DD04D2"
+    yellow: "#FFD779"
+    red: "#D47454"
+    cyan: "#25C8EB"
+
+    # Synthwave accents (from PyCon 2026 presentation template)
+    amber: "#FFBD59"
+    peach: "#FCCE90"
+    lavender: "#E2A9F1"
+    cream: "#F8EAD6"
+
+    # Neutrals
+    white: "#FFFFFF"
+    off-white: "#F5F5F5"
+    gray: "#8C8C8C"
+    black: "#272727"
+
+  foreground: off-white
+  background: near-black
+  primary: blue
+  secondary: gray
+  success: cyan
+  info: medium-blue
+  warning: yellow
+  danger: red
+  light: off-white
+  dark: dark-blue
+
+typography:
+  fonts:
+    - family: Atkinson Hyperlegible
+      source: google
+      weight: [400, 700]
+      style: [normal, italic]
+    - family: Atkinson Hyperlegible Mono
+      source: google
+      weight: [400, 700]
+  base:
+    family: Atkinson Hyperlegible
+    size: 16px
+    line-height: 1.6
+  headings:
+    family: Atkinson Hyperlegible
+    weight: 700
+    line-height: 1.18
+  monospace:
+    family: Atkinson Hyperlegible Mono
+    size: 0.9em
+  link:
+    color: cyan
+    weight: 600

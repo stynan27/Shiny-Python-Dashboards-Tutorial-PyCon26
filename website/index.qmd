@@ -1,0 +1,13 @@
+---
+title: "Show off your data"
+subtitle: "Interactive dashboards in Python"
+---
+
+📅 Thursday, May 14th\
+🕘 9 a.m.–12:30 p.m\
+🏢 Room 102A\
+🔗 <https://us.pycon.org/2026/schedule/presentation/112/>
+
+## Schedule
+
+{{< include /_schedule.qmd >}}

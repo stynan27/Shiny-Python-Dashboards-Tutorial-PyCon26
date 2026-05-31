@@ -1,0 +1,59 @@
+/* Hide light/dark mode toggle */
+.quarto-color-scheme-toggle {
+  display: none !important;
+}
+
+/* Inline code */
+code:not(.sourceCode) {
+  background-color: #16213e;
+  color: #f5f5f5;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* Code blocks */
+pre.sourceCode,
+div.sourceCode,
+pre:not(.sourceCode) {
+  background-color: #16213e;
+}
+
+/* Shinylive - reset to light mode so its own editor/viewer are readable */
+.shinylive-wrapper {
+  color-scheme: light;
+  color: #212529;
+  background-color: #ffffff;
+}
+
+/* CodeMirror editor text — base layer only, leave token spans alone */
+.shinylive-wrapper .cm-editor {
+  background-color: #ffffff !important;
+}
+
+.shinylive-wrapper .cm-content,
+.shinylive-wrapper .cm-line {
+  color: #212529 !important;
+}
+
+.shinylive-wrapper .cm-gutters {
+  background-color: #f8f9fa !important;
+  color: #6c757d !important;
+}
+
+/* Gutter line numbers */
+.shinylive-wrapper .cm-lineNumbers .cm-gutterElement {
+  color: #6c757d !important;
+}
+
+/* Toolbar / header bar */
+.shinylive-wrapper .shinylive-header,
+.shinylive-wrapper [class*="header"] {
+  background-color: #f8f9fa !important;
+  color: #212529 !important;
+  border-color: #dee2e6 !important;
+}
+
+/* Buttons inside shinylive */
+.shinylive-wrapper button {
+  color: #212529 !important;
+}

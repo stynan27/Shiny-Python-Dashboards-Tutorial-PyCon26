@@ -1,0 +1,26 @@
+---
+title: Resources
+toc: false
+---
+
+## Shiny
+
+- Shiny for Python docs: <https://shiny.posit.co/py/>
+- Component gallery: <https://shiny.posit.co/py/components/>
+- Templates: <https://shiny.posit.co/py/templates/>
+- Shiny concepts page: <https://shiny.posit.co/py/docs/overview.html>
+- Mastering Shiny book (R): <https://mastering-shiny.org/>
+
+- UBC DSCI 532: Data Visualization 2 course: <https://ubc-mds.github.io/DSCI_532_vis-2_book/>
+
+## Shiny Reactivity
+
+- [Gordon Shotwell & Tracy Teal — Build Simple and Scalable Apps with Shiny | PyData NYC 2023](https://www.youtube.com/watch?v=9RC8PobU5oQ)
+  - Slides: <https://github.com/gshotwell/shiny-algorithm>
+- [Joe Cheng — Shiny: Data-centric web applications in Python | PyData Seattle 2023](https://www.youtube.com/watch?v=0ovCLxttJGE)
+
+## Python, Shiny, AI, LLMs
+
+- chatlas: <https://posit-dev.github.io/chatlas/>
+- shinychat: <https://posit-dev.github.io/shinychat/py/>
+- querychat: <https://github.com/posit-dev/querychat>

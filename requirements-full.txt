@@ -1,0 +1,19 @@
+-r requirements.txt
+
+# heavy data processing
+ibis-framework[duckdb,examples,polars]
+narwhals
+polars
+
+# AI
+anthropic[bedrock]
+boto3
+langchain
+langchain-anthropic
+langchain-openai
+langgraph
+requests
+tokenizers
+
+# testing & media
+pillow

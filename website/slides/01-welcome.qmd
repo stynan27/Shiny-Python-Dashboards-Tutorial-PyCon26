@@ -1,0 +1,74 @@
+---
+title: "Welcome"
+---
+
+## Get your computer ready
+
+
+::: {.columns}
+
+::: {.column}
+
+### Installation
+
+<https://chendaniely.github.io/pycon-2026-shiny/setup.html>
+
+![](/img/qr-setup.png){width="350px" fig-align="center"}
+
+If you cloned the repository and did the installation update your materials with:
+
+```bash
+git pull origin main
+```
+
+:::
+
+::: {.column}
+
+### Wifi
+
+SSID: `PyConUS26`\
+Password: `pyconLB2026`\
+![](/img/wifi.jpg)
+
+:::
+
+:::
+
+
+## Today's goal
+
+Learn how to build reactive web apps with Shiny for Python,
+from the simple to the mission critical.
+
+## Who's in the room?
+
+Have you used...
+
+::: {.incremental}
+- Python?
+- Data visualization in Python (matplotlib, plotnine, plotly, ...)?
+- Interactive dashboards (Dash, Streamlit, Panel, ...)?
+- Shiny for R?
+- Shiny for Python?
+:::
+
+## Agenda
+
+{{< include /_schedule.qmd >}}
+
+## House rules
+
+- Ask questions any time
+- Help your neighbor - teaching is the best way to learn
+- Stuck? Raise your hand - helpers are roaming the room
+- Everything is at: <https://github.com/chendaniely/pycon-2026-shiny>
+
+
+### Important locations
+
+TODO: fill this out
+
+- Bathrooms:
+    - Gender-neutral:
+- This room: Room 102A
